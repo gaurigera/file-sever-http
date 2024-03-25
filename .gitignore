@@ -1,0 +1,25 @@
+# Node.js dependencies
+/node_modules
+
+# Compiled output
+/dist
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
